@@ -1,9 +1,14 @@
 {
-  "updatedAt": "Sep 7, 2026",
+  "updatedAt": "Sep 14, 2026",
   "codes": [
     {
+      "code": "PETS",
+      "reward": "200 Gems + 30 Min 2X Luck Boost",
+      "active": true
+    },
+    {
       "code": "ALIEN",
-      "reward": "200 Gems + 200 Alien Chests",
+      "reward": "200 Gems + 200 Alien Coins",
       "active": true
     }
   ]
