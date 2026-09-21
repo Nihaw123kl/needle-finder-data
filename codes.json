@@ -1,13 +1,18 @@
+
 {
-  "updatedAt": "Sep 14, 2026",
+  "updatedAt": "Sep 21, 2026",
   "codes": [
+    {
+      "code": "WEATHER",
+      "active": true
+    },
     {
       "code": "PETS",
       "active": true
     },
     {
       "code": "ALIEN",
-      "active": true
+      "active": false
     }
   ]
 }
