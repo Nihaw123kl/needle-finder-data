@@ -1,6 +1,10 @@
 {
-  "updatedAt": "Sep 21, 2026",
+  "updatedAt": "Sep 24, 2026",
   "codes": [
+    {
+      "code": "CLANS",
+      "active": true
+    },
     {
       "code": "WEATHER",
       "active": true
